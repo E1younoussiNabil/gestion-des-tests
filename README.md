@@ -1,7 +1,11 @@
 # Mes vidéos explicatifs :Liens descriptions youtube: 
 
 part1: https://www.youtube.com/watch?v=nqZkN-5oRd0   #### cadre générale,diagrammes cas d'utilisation et classes, étapes de déploiement et ecpace admin.
+
+
 part2: https://www.youtube.com/watch?v=82Wku0DkkFU   #### création creneaux et demande de passation de tests.
+
+
 part3: https://www.youtube.com/watch?v=sKIManpjJfk   #### moment final de soumission de tests et explication d'architécture choisi.
 
 # Application de Gestion des Tests en Ligne
